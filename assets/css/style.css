@@ -227,7 +227,7 @@ body {
 }
 
 .track.active {
-  background: rgb(158, 114, 164);
+  background: rgba(158, 114, 164, 0.547);
 }
 .track.active .track-item {
   animation: playing 30s infinite;

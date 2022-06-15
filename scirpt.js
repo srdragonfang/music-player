@@ -43,6 +43,13 @@ const app = {
 
   tracks: [
     {
+      title: "たぶん",
+      artist: "Yoasobi",
+      path: "assets/audio/Tabun.mp3",
+      imgUrl: "assets/image/Tabun.jpg",
+    },
+
+    {
       title: "Still Life",
       artist: "Big Bang",
       path: "assets/audio/1.mp3",
